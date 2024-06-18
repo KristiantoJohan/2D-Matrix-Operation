@@ -26,12 +26,12 @@ This project provides a set of operations for 2D matrices implemented in C++. Th
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/matrix-operations.git
+    git clone https://github.com/KristiantoJohan/2D-Matrix-Operations.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd matrix-operations
+    cd 2D-Matrix-Operations
     ```
 
 3. Compile the code:
